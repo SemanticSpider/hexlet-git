@@ -1,6 +1,0 @@
-'git is awesome!' 
-'new line ' 
-'experiment with amend' 
-'new date' 
-'Info update 1' 
-'Info update 2' 
